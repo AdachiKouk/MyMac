@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// test
 struct ContentView: View {
     // 入力中の文字列を保持する状態変数
     @State var inputText: String = ""
